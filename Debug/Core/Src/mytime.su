@@ -1,0 +1,6 @@
+../Core/Src/mytime.c:24:16:timeToYear	32	static
+../Core/Src/mytime.c:51:16:timeToMonth	24	static
+../Core/Src/mytime.c:68:6:timeToDate	56	static
+../Core/Src/mytime.c:106:6:timeToWeekday	24	static
+../Core/Src/mytime.c:121:6:dateToTime	32	static
+../Core/Src/mytime.c:162:6:dayBetweenTimes	32	static

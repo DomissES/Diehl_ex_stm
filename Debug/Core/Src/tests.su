@@ -1,0 +1,4 @@
+../Core/Src/tests.c:16:6:testTimeToDate	4	static
+../Core/Src/tests.c:23:6:testDateToTime	4	static
+../Core/Src/tests.c:28:6:testDateToWeekday	4	static
+../Core/Src/tests.c:33:6:testDayBetweenTimestamp	4	static

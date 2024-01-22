@@ -1,0 +1,4 @@
+../Core/Src/tests.c:16:6:testTimeToDate	1
+../Core/Src/tests.c:23:6:testDateToTime	1
+../Core/Src/tests.c:28:6:testDateToWeekday	1
+../Core/Src/tests.c:33:6:testDayBetweenTimestamp	1
